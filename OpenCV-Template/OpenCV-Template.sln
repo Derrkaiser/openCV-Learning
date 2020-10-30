@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV-Template", "OpenCV-Template\OpenCV-Template.vcxproj", "{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Debug|x64.ActiveCfg = Debug|x64
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Debug|x64.Build.0 = Debug|x64
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Debug|x86.ActiveCfg = Debug|Win32
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Debug|x86.Build.0 = Debug|Win32
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Release|x64.ActiveCfg = Release|x64
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Release|x64.Build.0 = Release|x64
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Release|x86.ActiveCfg = Release|Win32
+		{A70D3D8F-AA5A-4B5A-B57B-FA57A503A661}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22CA20F-8DD2-412C-A6A3-84847F9EA390}
+	EndGlobalSection
+EndGlobal
