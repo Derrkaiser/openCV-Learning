@@ -118,6 +118,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>Default</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -148,7 +149,7 @@
     <ClCompile Include="outputImage.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\..\Desktop\Lena.png" />
+    <Image Include="x64\Debug\Lena.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
