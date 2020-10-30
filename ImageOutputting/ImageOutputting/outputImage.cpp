@@ -14,6 +14,13 @@ int main()
 	image = imread("C:\\Users\\mpkai\\Desktop\\Lena.png", IMREAD_ANYCOLOR); //HAVE TO ESCAPE THE BACKSLASHES
 	namedWindow("Display Window", WINDOW_AUTOSIZE); //created window with name "Display Window" and its auto-sized
 	imshow("Display Window", image); //display the image to the window
-	waitKey(0); //wait for keystroke before closing
+
+
+
+	Mat image2(200, 200, CV_8UC3, Scalar(0, 0, 255));
+	imshow("image2", image2);
+	waitKey(0);
+
 	return 0;
+	
 }

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\Desktop\Lena.png">
+    <Image Include="..\..\..\..\..\..\Desktop\Lena.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
